@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Header = () => {
+    // const {setUserInfo, userInfo} =
     return (
         <header>
             <Link to="/" className="logo">MyBlog</Link>
